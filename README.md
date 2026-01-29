@@ -1,4 +1,4 @@
-# 🌐 Game Environment Tuning Utility
+# 🌐 Game Environment Tuning Utility for Counter-Strike 2
 # Module "Stabilizer-7" — Version 4.3
 
 **A standalone diagnostic module designed to analyze and correct client-side configuration imbalances in Source 2–based titles. The utility identifies and resolves common issues manifesting as frame pacing instability, micro-stutters during rendering, and network synchronization artifacts—without manual intervention.*
